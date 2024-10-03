@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[
+    {"name":"객체","order":1,"path":"folders/객체.yy",},
+    {"name":"룸","order":2,"path":"folders/룸.yy",},
+    {"name":"필기","order":3,"path":"folders/필기.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"readme","order":1,"path":"notes/readme/readme.yy",},
+    {"name":"oBlock","order":5,"path":"objects/oBlock/oBlock.yy",},
+    {"name":"oInit","order":1,"path":"objects/oInit/oInit.yy",},
+    {"name":"oPlayer","order":3,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"roomMain","order":1,"path":"rooms/roomMain/roomMain.yy",},
+    {"name":"sBackground","order":5,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"sBlock","order":3,"path":"sprites/sBlock/sBlock.yy",},
+    {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
+  ],
+}
